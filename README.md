@@ -39,3 +39,43 @@ There are several different directions for participants to ‘tackle’ (ha)—w
 - How does a defense react to certain types of offensive plays?
 
 Is there anything about a player – for example, their height, weight, experience, speed, or position – that can be used to predict their performance on defense?
+
+-------
+
+
+## Big Data Bowl 2021 scoring sheet
+Submissions will be judged by the NFL based on how well they address:
+
+### Innovation:
+
+- Are the proposed findings actionable?
+
+- Is this a way of looking at tracking data that is novel?
+
+- Is this project creative?
+
+### Accuracy:
+
+- Is the work correct?
+
+- Are claims backed up by data?
+
+- Are the statistical models appropriate given the data?
+
+### Relevance:
+
+- Would NFL teams (or the league office) be able to use these results on a week-to-week basis?
+
+- Does the analysis account for variables that make football data complex?
+
+### Clarity:
+
+- Evaluate the writing with respect to how clear the writer(s) make findings.
+
+### Data visualization/tables:
+
+- Are the charts and tables provided accessible, interesting, visually appealing, and accurate?
+
+
+-------
+
