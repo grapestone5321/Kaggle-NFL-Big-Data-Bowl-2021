@@ -79,3 +79,5 @@ Submissions will be judged by the NFL based on how well they address:
 
 -------
 
+## 2020 NFL RULEBOOK
+https://operations.nfl.com/the-rules/2020-nfl-rulebook/
